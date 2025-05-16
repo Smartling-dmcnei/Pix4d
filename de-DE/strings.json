@@ -5,5 +5,6 @@
   "string4" : "<p>Wir revolutionieren die Photogrammetrie, damit Sie skalieren und die <b>Kraft Ihrer Bilder</b> entfesseln können.</p>",
   "string5" : "Wir sind da, wo Sie sind",
   "string6" : "<p><b>55.000+</b> aktive Nutzer</p>",
-  "string7" : "Ein Beispiel für einen Platzhalter: {placeholder_goes_here}"
+  "string7" : "Ein Beispiel für einen Platzhalter: {placeholder_goes_here}",
+  "string8" : "Dies ist eine neue Zeichenfolge zur Demo"
 }
