@@ -1,10 +1,9 @@
 {
-  "string1" : "Wer sind wir?",
-  "string2" : "<p>Pix4D ist ein Marktführer im Bereich <b>der Photogrammetrie-Softwaretechnologie</b> .</p>",
-  "string3" : "Unsere Produkte ermöglichen es Ihnen, die Realität zu digitalisieren und anhand von Bildern zu messen, die von Flugzeugen, Drohnen, Telefonen oder anderen Kameras aufgenommen wurden.",
-  "string4" : "<p>Wir revolutionieren die Photogrammetrie, damit Sie skalieren und die <b>Kraft Ihrer Bilder</b> entfesseln können.</p>",
-  "string5" : "Wir sind da, wo Sie sind",
-  "string6" : "<p><b>55.000+</b> aktive Nutzer</p>",
-  "string7" : "Ein Beispiel für einen Platzhalter: {placeholder_goes_here}",
-  "string8" : "Dies ist eine neue Zeichenfolge zur Demo"
+  "string1" : "Digitalisierung einer Stadt: Lernen Sie Medellín in 3D kennen",
+  "string2" : "16. Januar 2023",
+  "string3" : "Das Projekt zur Digitalisierung von Medellín umfasste 17.500 Hektar. So war es mit Drohnen-Mapping und PIX4Dmatic möglich. ",
+  "string4" : "<p>Stadtplanung ist ein äußerst komplexes Unterfangen, das mit jedem Jahr komplizierter wird, da die Städte wachsen und sich verändern. Um Städte zu verwalten, neue Infrastrukturen zu planen und sicherzustellen, dass sichere Bauvorschriften eingehalten werden, müssen die Behörden über genaue Daten über die von ihnen betreuten Gebiete verfügen. Dieses Bedürfnis war es, was den Unterstaatssekretär des Katasteramts, einer Abteilung des Bürgermeisteramts in der kolumbianischen Stadt Medellín, dazu bewogen hat, die Digitalisierung seiner Stadt zu planen. Sie mussten die Verteilung und die Eigenschaften der Gebäude in 16 Gemeinden mit einer Fläche von 17.500 Hektar und dem Nachbardorf Santa Elena besser verstehen. Eine digitale Version der Stadt würde als Prüfinstrument dienen, damit das Büro des Staatssekretärs die Einhaltung der Flächennutzungsplanung durch die Gebäude kontrollieren könnte. Technologien wie diese werden dazu beitragen, dass sich Medellín zu einer <a href=\"https://www.pix4d.com/blog/drone-mapping-smart-cities\">Smart City</a> entwickelt.</p>",
+  "string5" : "<h2>Planung des ultimativen Smart-City-Projekts</h2>",
+  "string6" : "JabVisual ist ein Digitalisierungsunternehmen, das in Kolumbien tätig ist. Ihre Erfahrung in der Digitalisierung der Realität für die strategische Vermögensverwaltung schafft Wert und nachhaltige Praktiken für ihre Kunden. Sie haben in den Bereichen Ingenieurwesen, Infrastruktur, Bauwesen und sogar in Elementen des Metaversums gearbeitet. Sie verwenden digitalisierte Modelle, um die Realität genau nachzubilden, so dass Inspektionen und Analysen in kürzerer Zeit abgeschlossen werden können. Das immersive Erlebnis bietet mehr Informationen und behält die Genauigkeit einer Realität bei, sodass die Menschen bequem von ihrem eigenen Büro aus mehr sehen können. JabVisual wurde für das Projekt zur Digitalisierung von Medellín kontaktiert, um strategische Informationen zu generieren, die die Stadtplanung verbessern würden.",
+  "string7" : "Dies ist ein Beispiel für einen Platzhalter: {placeholder_goes_here}"
 }
