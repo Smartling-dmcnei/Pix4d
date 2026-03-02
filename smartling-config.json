@@ -20,7 +20,7 @@
          {
             "type": "json",
             "pathRegex": "en\\/strings_en_US\\.json",
-            "translationPathExpression": "${original_path}/strings_${locale}.${originalFile.extension}",
+            "translationPathExpression": "en/strings_${locale}.json",
             "translationCommitMessage": "Translated ${originalFile.fullName} to ${locale}"
          }
      ]
