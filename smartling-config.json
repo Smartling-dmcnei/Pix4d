@@ -19,7 +19,7 @@
      "resourceSets": [
          {
             "type": "json",
-            "pathRegex": "en\\/.*\\.json",
+            "pathRegex": "en\\strings_en_US\\.json",
             "translationPathExpression": "${original_path}/strings_${locale}",
             "translationCommitMessage": "Translated ${originalFile.fullName} to ${locale}"
          }
